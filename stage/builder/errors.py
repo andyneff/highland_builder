@@ -1,0 +1,2 @@
+class HighlandError(Exception):
+    pass
